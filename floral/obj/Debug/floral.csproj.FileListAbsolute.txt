@@ -1,0 +1,12 @@
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\bin\Debug\floral.exe.config
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\bin\Debug\floral.exe
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\bin\Debug\floral.pdb
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.csproj.AssemblyReference.cache
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.Form1.resources
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.Form2.resources
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.Properties.Resources.resources
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.csproj.GenerateResource.cache
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.csproj.CoreCompileInputs.cache
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.exe
+C:\Users\Ekaterina\Desktop\демо экзамен\floral\floral\obj\Debug\floral.pdb
